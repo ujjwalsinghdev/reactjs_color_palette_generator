@@ -1,3 +1,8 @@
+# APP DETAILS
+
+![Mardown Logo](color.png)
+
+
 # Create React App (HOW TO START THIS APP ON LOCALSERVER)
 
 <img alt="Logo" align="right" src="https://create-react-app.dev/img/logo.svg" width="20%" />
